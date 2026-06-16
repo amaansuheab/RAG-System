@@ -186,4 +186,4 @@ Add your preferred license file (MIT, Apache-2.0, etc.) at repository root.
 
 ---
 
-Built for real-world RAG operations by Adil Shamim.
+Built for real-world RAG operations by Amaan Suheab
